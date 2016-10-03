@@ -34,3 +34,8 @@ jj.script([
 A short list of run sequential script:
 - https://runkit.com/francescobianco/jazz-js-sample-script-1
 - https://runkit.com/57f20ded751b541400b4da6b/57f20ded751b541400b4da6c
+
+## Comparisone with async/await
+
+
+
