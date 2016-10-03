@@ -1,6 +1,6 @@
 {
     "name": "jazz.js",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "license": "MIT",
     "main": "jazz.js",
     "engines": { "node": ">=4.0.0" },
