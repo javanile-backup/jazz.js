@@ -1,8 +1,7 @@
 {
-    "name": "jazz",
+    "name": "jazz.js",
     "version": "0.0.1",
     "license": "MIT",
-    "private": true,
     "main": "lodash.js",
     "engines": { "node": ">=4.0.0" },
     "scripts": {
