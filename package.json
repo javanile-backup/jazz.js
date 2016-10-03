@@ -2,7 +2,7 @@
     "name": "jazz.js",
     "version": "0.0.3",
     "license": "MIT",
-    "main": "lodash.js",
+    "main": "jazz.js",
     "engines": { "node": ">=4.0.0" },
     "scripts": {
         "test": "node ./tests/script/test2.js"
